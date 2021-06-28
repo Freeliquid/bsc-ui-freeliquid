@@ -787,9 +787,9 @@ function Landing() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="linkContract"
-                href="https://etherscan.io/address/0x2B4200A8D373d484993C37d63eE14AeE0096cd12"
+                href="https://bscscan.com/address/0x8a72b060a5780a1b6b6eb58ae7c328e8af953bc6"
               >
-                0x2B4200A8D373d484993C37d63eE14AeE0096cd12
+                0x8a72b060a5780a1b6b6eb58ae7c328e8af953bc6
               </a>
             </Text.h5>
           </BlocksDiv>
@@ -811,9 +811,9 @@ function Landing() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="linkContract2"
-                href="https://etherscan.io/address/0xfFED56a180f23fD32Bc6A1d8d3c09c283aB594A8"
+                href="https://bscscan.com/address/0xf497587d66Fd3D62CECCD2c7ba768869b5a49936"
               >
-                0xfFED56a180f23fD32Bc6A1d8d3c09c283aB594A8
+                0xf497587d66Fd3D62CECCD2c7ba768869b5a49936
               </a>
             </Text.h5>
           </BlocksDiv>
