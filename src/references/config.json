@@ -1,0 +1,68 @@
+{
+  "supportedNetworkIds": [
+    "1337",
+    "999",
+    "99",
+    "5",
+    "4",
+    "3",
+    "42",
+    "1",
+    "56"
+  ],
+  "rpcUrls": {
+    "1": "https://mainnet.infura.io/v3/58073b4a32df4105906c702f167b91d2",
+    "56": "https://bsc.getblock.io/mainnet/?api_key=5218d45d-da20-459a-8f40-3e65c2540e8b",
+    "42": "https://kovan.infura.io/v3/58073b4a32df4105906c702f167b91d2",
+    "4": "https://rinkeby.infura.io/v3/58073b4a32df4105906c702f167b91d2",
+    "999": "http://localhost:2000",
+    "99": "http://localhost:8545",
+    "1337": "http://localhost:2000"
+  },
+  "wsRpcUrls": {
+    "56": "wss://bsc.getblock.io/mainnet/?api_key=5218d45d-da20-459a-8f40-3e65c2540e8b",
+    "1": "wss://mainnet.infura.io/ws/v3/58073b4a32df4105906c702f167b91d2",
+    "42": "wss://kovan.infura.io/ws/v3/58073b4a32df4105906c702f167b91d2",
+    "4": "wss://rinkeby.infura.io/ws/v3/58073b4a32df4105906c702f167b91d2"
+  },
+  "networkNames": {
+    "1": "mainnet",
+    "42": "kovan",
+    "56": "bsc",
+    "3": "ropsten",
+    "4": "rinkeby",
+    "5": "goerli",
+    "999": "testnet1",
+    "99": "testnet",
+    "1337": "testnet2"
+  },
+  "networkDisplayNames": {
+    "1": "Mainnet",
+    "42": "Kovan Testnet",
+    "56": "Binance Smart Chain",
+    "3": "Ropsten Testnet",
+    "4": "Rinkeby Testnet",
+    "5": "Goerli Testnet",
+    "999": "Org_Testchain",
+    "99": "Testchain",
+    "1337": "Ex_Testchain"
+  },
+  "defaultNetwork": "56",
+  "exTestchainApiUrl": "http://localhost:4000/chain",
+  "showWalletTokens": [
+    "USDFL",
+    "BUSDDAI",
+    "BUSDUSDT",
+    "BUSDUSDC"
+  ],
+  "trackingPages": {
+    "Overview": "Overview",
+    "CDP": "Dashboard",
+    "Save": "Dashboard",
+    "Landing": "Landing"
+  },
+  "txManager": {
+    "autoDismissFadeoutTime": 500,
+    "autoDismissTime": 10000
+  }
+}
